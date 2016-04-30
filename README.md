@@ -1,0 +1,1 @@
+This is an angular single page application that uses an API app id to fetch weather data from the open weather map website. You can get weather info from all over the states, you also have the options to see the weather for the next 2,5,7 days
